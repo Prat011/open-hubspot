@@ -1,0 +1,3 @@
+- [x] Create contacts and companies first
+- [x] Create tasks that can be associated with contacts and companies
+- [x] Then add deals and the deals view with the stages for deals
